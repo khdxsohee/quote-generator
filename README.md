@@ -1,2 +1,11 @@
-# quote-generator
-A random quote generator that displays inspirational quotes at the click of a button. It uses a collection of quotes and dynamically shows one every time the button is clicked.
+# Quote Generator
+
+Welcome to the **Quote Generator** repository! 
+
+## 🚀 Live Demo
+
+You can check out the live demo of this project by clicking the link below:
+
+🔗 [Live Demo](https://khalid-randhawa.web.app/apps-projects/quote-generator.html)
+
+---
